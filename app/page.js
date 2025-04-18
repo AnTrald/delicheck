@@ -17,7 +17,7 @@ export default function Home() {
                              className="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent dark:bg-gray-700 dark:text-white dark:placeholder-gray-400"/>
                   </div>
                   <button type="submit"
-                          className="w-full bg-primary hover:bg-primary-dark dark:bg-secondary dark:hover:bg-secondary-dark text-white py-2 px-4 rounded-lg transition duration-200">
+                          className="w-full bg-[var(--primary)] hover:bg-primary-dark dark:bg-secondary dark:hover:bg-secondary-dark text-white py-2 px-4 rounded-lg transition duration-200">
                       Зарегистрироваться
                   </button>
               </form>

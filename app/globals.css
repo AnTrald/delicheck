@@ -1,5 +1,7 @@
 @import "tailwindcss";
+@import "tailwindcss/theme.css" layer(theme);
 
-@theme {
-   primary: #007bff;
+:root {
+   --primary: #2c3e50;
+   --secondary-color: #000;
 }
